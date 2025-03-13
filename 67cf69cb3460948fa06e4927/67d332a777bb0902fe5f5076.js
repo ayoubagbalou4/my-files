@@ -5,7 +5,7 @@
                             gender: {
                                 type: String, 
                                 required: [false, 'gender is required'],
-                                emum:[homme,femme]
+                                emum:["homme","femme"]
                             },
                             name: {
                                 type: String,
